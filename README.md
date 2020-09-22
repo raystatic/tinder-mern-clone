@@ -1,3 +1,6 @@
+![tinder-clone-demo](https://user-images.githubusercontent.com/31301266/93943447-23ea7380-fd50-11ea-910e-071ac27f00db.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
